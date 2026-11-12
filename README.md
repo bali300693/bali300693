@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @bali300693
-- 👀 I’m interested in industry automation
-- 🌱 I’m currently learning Beckhoff TwinCAT Automation 
-- 💞️ I’m looking to collaborate on PLC Programming (Beckhoff)
 - 📫 How to reach me b.regmi@rptu.de
 
 <!---
